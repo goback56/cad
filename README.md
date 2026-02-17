@@ -1,4 +1,4 @@
 # CAD
-This is a portfolio for the 3D design I have done with Blender, SolidWorks, and Fusion. 
+This is a portfolio showcasing the 3D designs I created using Blender, SolidWorks, and Fusion. 
 ## Content
 Screw Driver
